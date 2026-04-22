@@ -8,6 +8,10 @@
 
 ---
 
+<p align="center">
+  <img src="assets/Rishi_AI_Scholar_Mission_2026_Banner.png" alt="Rishi AI Scholar Mission Banner" width="100%">
+</p>
+
 ## ✨ About Me
 
 I'm a student who loves learning new things, solving problems, and building future-ready skills early.  

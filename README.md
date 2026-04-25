@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="assets/Rishi_AI_Scholar_Mission_2026_Banner.png" alt="Rishi AI Scholar Mission Banner" width="100%">
+  <img src="assets/My_AI_Scholar_Journey.png" alt="Rishi AI Scholar Mission Banner" width="100%">
 </p>
 
 ## ✨ About Me
